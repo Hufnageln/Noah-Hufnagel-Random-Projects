@@ -1,0 +1,18 @@
+THIS IS THE README FILE FOR LAB6
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE PERFORMED ALL
+OF THE WORK TO DETERMINE THE ANSWERS FOUND WITHIN THIS FILE
+MYSELF WITH NO ASSISTANCE FROM ANY PERSON OTHER THAN THE
+INSTRUCTOR OF THIS COURSE OR ONE OF OUR UNDERGRADUATE GRADERS
+
+NAME: Noah Hufnagel
+Number of hours: 16 hours
+
+Comments: Overall This was a very enjoyable lab. Most of the problems I 
+encountered involved array and register management.
+
+Bonus B is incorporated into search.s I had an aha moment for it when I realized i could just detect when
+we hit a NULL instead of using index and size.
+
+Bonus A is written in lab6bonus.s. there is a seperate make command for it
+called make lab6bonus and the executable for this file after runnign this
+make command is called lab6bonus

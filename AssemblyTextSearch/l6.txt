@@ -1,0 +1,133 @@
+The last string is last string in the list.
+evaluate: using range 0 to evaluate "FIRST STRING IN THE LIST.".
+evaluate: found 0 words in "FIRST STRING IN THE LIST." using range 0.
+evaluate: using range 0 to evaluate "That's all folks!".
+evaluate: found 0 words in "That's all folks!" using range 0.
+evaluate: using range 0 to evaluate "Let's be careful out there.".
+evaluate: found 0 words in "Let's be careful out there." using range 0.
+evaluate: using range 0 to evaluate "395 Dreese Labs, 2015 Neil Avenue, COlumbus, OH, 43210".
+evaluate: found 3 words in "395 Dreese Labs, 2015 Neil Avenue, COlumbus, OH, 43210" using range 0.
+evaluate: using range 0 to evaluate "Well, to tell you the truth, in all this excitement I kind of lost track myself.".
+evaluate: found 0 words in "Well, to tell you the truth, in all this excitement I kind of lost track myself." using range 0.
+evaluate: using range 0 to evaluate "And gentlemen in England now a-bed shall think themselves accursed that they were not here!".
+evaluate: found 0 words in "And gentlemen in England now a-bed shall think themselves accursed that they were not here!" using range 0.
+evaluate: using range 0 to evaluate "Use The Force, Luke!".
+evaluate: found 0 words in "Use The Force, Luke!" using range 0.
+evaluate: using range 0 to evaluate "C is call by value.".
+evaluate: found 0 words in "C is call by value." using range 0.
+evaluate: using range 0 to evaluate "O-H!".
+evaluate: found 0 words in "O-H!" using range 0.
+evaluate: using range 0 to evaluate "I-O!".
+evaluate: found 0 words in "I-O!" using range 0.
+evaluate: using range 0 to evaluate "Go Bucks!".
+evaluate: found 0 words in "Go Bucks!" using range 0.
+evaluate: using range 0 to evaluate "".
+evaluate: found 0 words in "" using range 0.
+evaluate: using range 0 to evaluate "I don't know about you but I just found /* inside a comment.".
+evaluate: found 0 words in "I don't know about you but I just found /* inside a comment." using range 0.
+evaluate: using range 0 to evaluate "3 to beam up.".
+evaluate: found 1 words in "3 to beam up." using range 0.
+evaluate: using range 0 to evaluate "We few, we hapy few, we band of programmers;".
+evaluate: found 0 words in "We few, we hapy few, we band of programmers;" using range 0.
+evaluate: using range 0 to evaluate "8 6 7 5 3 0 9 (Sorry if that got stuck in your head)".
+evaluate: found 7 words in "8 6 7 5 3 0 9 (Sorry if that got stuck in your head)" using range 0.
+evaluate: using range 0 to evaluate "4 I In thIs strIng.".
+evaluate: found 1 words in "4 I In thIs strIng." using range 0.
+evaluate: using range 0 to evaluate "THAT FOUGHT WITH US UPON SAINT CRISPIN'S DAY!".
+evaluate: found 0 words in "THAT FOUGHT WITH US UPON SAINT CRISPIN'S DAY!" using range 0.
+evaluate: using range 0 to evaluate "https://en.wikipedia.org/wiki/St_Crispin%27s_Day_Speech".
+evaluate: found 1 words in "https://en.wikipedia.org/wiki/St_Crispin%27s_Day_Speech" using range 0.
+evaluate: using range 0 to evaluate "https://www.youtube.com/watch?v=bvFHRNGYfuo".
+evaluate: found 0 words in "https://www.youtube.com/watch?v=bvFHRNGYfuo" using range 0.
+evaluate: using range 0 to evaluate "last string in the list.".
+evaluate: found 0 words in "last string in the list." using range 0.
+Lab6: '8 6 7 5 3 0 9 (Sorry if that got stuck in your head)' has the most words using range 0'
+
+evaluate: using range 1 to evaluate "FIRST STRING IN THE LIST.".
+evaluate: found 5 words in "FIRST STRING IN THE LIST." using range 1.
+evaluate: using range 1 to evaluate "That's all folks!".
+evaluate: found 1 words in "That's all folks!" using range 1.
+evaluate: using range 1 to evaluate "Let's be careful out there.".
+evaluate: found 1 words in "Let's be careful out there." using range 1.
+evaluate: using range 1 to evaluate "395 Dreese Labs, 2015 Neil Avenue, COlumbus, OH, 43210".
+evaluate: found 6 words in "395 Dreese Labs, 2015 Neil Avenue, COlumbus, OH, 43210" using range 1.
+evaluate: using range 1 to evaluate "Well, to tell you the truth, in all this excitement I kind of lost track myself.".
+evaluate: found 2 words in "Well, to tell you the truth, in all this excitement I kind of lost track myself." using range 1.
+evaluate: using range 1 to evaluate "And gentlemen in England now a-bed shall think themselves accursed that they were not here!".
+evaluate: found 2 words in "And gentlemen in England now a-bed shall think themselves accursed that they were not here!" using range 1.
+evaluate: using range 1 to evaluate "Use The Force, Luke!".
+evaluate: found 4 words in "Use The Force, Luke!" using range 1.
+evaluate: using range 1 to evaluate "C is call by value.".
+evaluate: found 1 words in "C is call by value." using range 1.
+evaluate: using range 1 to evaluate "O-H!".
+evaluate: found 2 words in "O-H!" using range 1.
+evaluate: using range 1 to evaluate "I-O!".
+evaluate: found 2 words in "I-O!" using range 1.
+evaluate: using range 1 to evaluate "Go Bucks!".
+evaluate: found 2 words in "Go Bucks!" using range 1.
+evaluate: using range 1 to evaluate "".
+evaluate: found 0 words in "" using range 1.
+evaluate: using range 1 to evaluate "I don't know about you but I just found /* inside a comment.".
+evaluate: found 2 words in "I don't know about you but I just found /* inside a comment." using range 1.
+evaluate: using range 1 to evaluate "3 to beam up.".
+evaluate: found 0 words in "3 to beam up." using range 1.
+evaluate: using range 1 to evaluate "We few, we hapy few, we band of programmers;".
+evaluate: found 1 words in "We few, we hapy few, we band of programmers;" using range 1.
+evaluate: using range 1 to evaluate "8 6 7 5 3 0 9 (Sorry if that got stuck in your head)".
+evaluate: found 1 words in "8 6 7 5 3 0 9 (Sorry if that got stuck in your head)" using range 1.
+evaluate: using range 1 to evaluate "4 I In thIs strIng.".
+evaluate: found 4 words in "4 I In thIs strIng." using range 1.
+evaluate: using range 1 to evaluate "THAT FOUGHT WITH US UPON SAINT CRISPIN'S DAY!".
+evaluate: found 9 words in "THAT FOUGHT WITH US UPON SAINT CRISPIN'S DAY!" using range 1.
+evaluate: using range 1 to evaluate "https://en.wikipedia.org/wiki/St_Crispin%27s_Day_Speech".
+evaluate: found 4 words in "https://en.wikipedia.org/wiki/St_Crispin%27s_Day_Speech" using range 1.
+evaluate: using range 1 to evaluate "https://www.youtube.com/watch?v=bvFHRNGYfuo".
+evaluate: found 1 words in "https://www.youtube.com/watch?v=bvFHRNGYfuo" using range 1.
+evaluate: using range 1 to evaluate "last string in the list.".
+evaluate: found 0 words in "last string in the list." using range 1.
+Lab6: 'THAT FOUGHT WITH US UPON SAINT CRISPIN'S DAY!' has the most words using range 1'
+
+evaluate: using range 2 to evaluate "FIRST STRING IN THE LIST.".
+evaluate: found 0 words in "FIRST STRING IN THE LIST." using range 2.
+evaluate: using range 2 to evaluate "That's all folks!".
+evaluate: found 4 words in "That's all folks!" using range 2.
+evaluate: using range 2 to evaluate "Let's be careful out there.".
+evaluate: found 6 words in "Let's be careful out there." using range 2.
+evaluate: using range 2 to evaluate "395 Dreese Labs, 2015 Neil Avenue, COlumbus, OH, 43210".
+evaluate: found 5 words in "395 Dreese Labs, 2015 Neil Avenue, COlumbus, OH, 43210" using range 2.
+evaluate: using range 2 to evaluate "Well, to tell you the truth, in all this excitement I kind of lost track myself.".
+evaluate: found 15 words in "Well, to tell you the truth, in all this excitement I kind of lost track myself." using range 2.
+evaluate: using range 2 to evaluate "And gentlemen in England now a-bed shall think themselves accursed that they were not here!".
+evaluate: found 16 words in "And gentlemen in England now a-bed shall think themselves accursed that they were not here!" using range 2.
+evaluate: using range 2 to evaluate "Use The Force, Luke!".
+evaluate: found 4 words in "Use The Force, Luke!" using range 2.
+evaluate: using range 2 to evaluate "C is call by value.".
+evaluate: found 4 words in "C is call by value." using range 2.
+evaluate: using range 2 to evaluate "O-H!".
+evaluate: found 0 words in "O-H!" using range 2.
+evaluate: using range 2 to evaluate "I-O!".
+evaluate: found 0 words in "I-O!" using range 2.
+evaluate: using range 2 to evaluate "Go Bucks!".
+evaluate: found 2 words in "Go Bucks!" using range 2.
+evaluate: using range 2 to evaluate "".
+evaluate: found 0 words in "" using range 2.
+evaluate: using range 2 to evaluate "I don't know about you but I just found /* inside a comment.".
+evaluate: found 11 words in "I don't know about you but I just found /* inside a comment." using range 2.
+evaluate: using range 2 to evaluate "3 to beam up.".
+evaluate: found 3 words in "3 to beam up." using range 2.
+evaluate: using range 2 to evaluate "We few, we hapy few, we band of programmers;".
+evaluate: found 9 words in "We few, we hapy few, we band of programmers;" using range 2.
+evaluate: using range 2 to evaluate "8 6 7 5 3 0 9 (Sorry if that got stuck in your head)".
+evaluate: found 8 words in "8 6 7 5 3 0 9 (Sorry if that got stuck in your head)" using range 2.
+evaluate: using range 2 to evaluate "4 I In thIs strIng.".
+evaluate: found 5 words in "4 I In thIs strIng." using range 2.
+evaluate: using range 2 to evaluate "THAT FOUGHT WITH US UPON SAINT CRISPIN'S DAY!".
+evaluate: found 0 words in "THAT FOUGHT WITH US UPON SAINT CRISPIN'S DAY!" using range 2.
+evaluate: using range 2 to evaluate "https://en.wikipedia.org/wiki/St_Crispin%27s_Day_Speech".
+evaluate: found 10 words in "https://en.wikipedia.org/wiki/St_Crispin%27s_Day_Speech" using range 2.
+evaluate: using range 2 to evaluate "https://www.youtube.com/watch?v=bvFHRNGYfuo".
+evaluate: found 8 words in "https://www.youtube.com/watch?v=bvFHRNGYfuo" using range 2.
+evaluate: using range 2 to evaluate "last string in the list.".
+evaluate: found 5 words in "last string in the list." using range 2.
+Lab6: 'And gentlemen in England now a-bed shall think themselves accursed that they were not here!' has the most words using range 2'
+

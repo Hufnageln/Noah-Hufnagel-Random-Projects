@@ -1,0 +1,12 @@
+evaluate: using range 0 to evaluate "1 2 3 4 WHO are we fighting FOR?".
+evaluate: found 4 words in "1 2 3 4 WHO are we fighting FOR?" using range 0.
+evalmain: 4 words found using range 0 on "1 2 3 4 WHO are we fighting FOR?"
+
+evaluate: using range 1 to evaluate "1 2 3 4 WHO are we fighting FOR?".
+evaluate: found 2 words in "1 2 3 4 WHO are we fighting FOR?" using range 1.
+evalmain: 2 words found using range 1 on "1 2 3 4 WHO are we fighting FOR?"
+
+evaluate: using range 2 to evaluate "1 2 3 4 WHO are we fighting FOR?".
+evaluate: found 3 words in "1 2 3 4 WHO are we fighting FOR?" using range 2.
+evalmain: 3 words found using range 2 on "1 2 3 4 WHO are we fighting FOR?"
+

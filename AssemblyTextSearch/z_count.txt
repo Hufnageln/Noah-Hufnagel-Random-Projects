@@ -1,0 +1,3 @@
+countmain: 4 words found using range 0 on "1 2 3 4 WHO are we fighting FOR?"
+countmain: 2 words found using range 1 on "1 2 3 4 WHO are we fighting FOR?"
+countmain: 3 words found using range 2 on "1 2 3 4 WHO are we fighting FOR?"
